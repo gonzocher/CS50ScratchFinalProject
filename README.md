@@ -1,4 +1,4 @@
-# CS50ScratchFinalProject
+# CS50 Scratch Final Project
 Two player shooting gallery game where you snap photos of each animal by shooting your camera at them.  
 
 Left player uses WASD: W shoots 
